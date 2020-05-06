@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#date {
+    font-weight: bold;
+}
+
+.content {
+    color: blue;
+}
